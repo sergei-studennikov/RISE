@@ -1,4 +1,4 @@
-# RISE - Remote Isolation and Secure Execution - MVP
+# RISE - Remote Isolation Security Environment - MVP
 
 RISE is a minimal, easy-to-deploy prototype of remote browser isolation.
 
